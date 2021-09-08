@@ -1,0 +1,55 @@
+# O que é SCRUM?
+
+SCRUM é uma metodologia de gerenciamento de projetos ágeis. Ela tem como base as equipes pequenas e multidisciplinares, os feedbacks constantes e a colaboração dos envolvidos.
+O SCRUM deve ser visto como uma forma de orientar o trabalho de equipes com foco em resultados inteligentes e alinhados com as demandas existentes. Ele coloca a empresa preparada para entregar novidades continuamente. Além disso, amplia o alinhamento de expectativas entre os participantes no projeto, evitando baixa insatisfação.
+
+### Qual é a importância da metodologia SCRUM?
+Nos dias atuais, praticamente todas as organizações buscam melhorar a eficiência de suas equipes e reduzir desperdícios de tempo e de recursos. Saber entregar produtos e serviços de melhor qualidade para encantar seus clientes é algo básico para quem pretende se manter competitivo.
+Porém, isso não é tudo. Uma das principais características da época em que vivemos é a necessidade de agilizar os processos de trabalho, já que o mercado funciona em um ritmo realmente acelerado. Com a metodologia SCRUM, as empresas conseguem identificar oportunidades e desenvolver soluções em um curto espaço de tempo, adquirindo vantagem competitiva.
+Todos os times terão a base necessária para serem mais eficazes e produtivos. Isso vale mesmo para os cenários em que há mudança de necessidades: os times podem avaliar rapidamente o que deve ser feito para se adaptarem ao novo cenário e, com isso, diminuir o impacto das alterações no fluxo de trabalho.
+A metodologia SCRUM, em outras palavras, atua no gerenciamento de projetos, auxiliando no alcance de todos esses objetivos definidos durante as etapas de planejamento. Com o maior alinhamento entre os times, torna-se mais fácil avaliar o que deve ser feito para evitar desperdícios e melhorar o resultado final. Ou seja, a metodologia SCRUM amplia a habilidade de profissionais de gestão para entregarem os resultados esperados pelo cliente.
+
+### Como a dinâmica do SCRUM funciona?
+Como mencionado, o SCRUM é amplamente usado no desenvolvimento de software, mas pode ser aplicado em qualquer outro segmento profissional ou, até mesmo, em projetos pessoais. Isso porque o método conta com princípios importantes que fazem com que o trabalho flua de maneira facilitada. Veja, a seguir, quais são essas bases.
+
+### Autogerenciamento
+O SCRUM conta com papéis e responsabilidades bem-definidos. Cada membro da equipe conhece sua função no time, facilitando muito o andamento dos projetos. Quando cada profissional sabe exatamente quais são suas tarefas e obrigações, a equipe gerencia a si mesma naturalmente, sem precisar de cobranças externas constantes.
+Dentro de uma equipe de projeto que atua no ambiente SCRUM, há vários papéis. Eles são formulados para orientar o fluxo de trabalho e garantir que cada um esteja pronto para atuar de modo autônomo. Confira a seguir os papéis desse ambiente!
+
+### Product owner ou dono do produto
+Essa atribuição é dada para os stakeholders do negócio. Pode funcionar de forma semelhante a um profissional de atendimento ou gestor de sucesso do cliente.
+Devteam ou equipe de desenvolvimento
+São os membros da equipe, que devem ter características multidisciplinares. Ou seja, aqueles que fazem as rotinas definidas no planejamento do projeto e em cada etapa.
+
+### SCRUM master
+Esse é o gerente de projeto, responsável por dirigir a equipe para que os objetivos e metas sejam atingidos. O SCRUM master garante que todo o processo seja seguido. Também participa das reuniões diárias, da revisão de Sprint e do planejamento.
+
+### Agilidade
+Por ser um tipo de metodologia ágil, é de se esperar que o SCRUM foque em velocidade, ao mesmo tempo em que atende às necessidades do cliente. Inclusive, o livro sobre a abordagem se chama “SCRUM: A arte de fazer o dobro na metade do tempo“. A obra foi escrita pelo próprio Jeff Sutherland, que é o fundador do SCRUM.
+Essa agilidade só é possível porque os objetivos maiores são quebrados em diversas etapas. O trabalho é dividido em iterações, que são chamadas de sprints. Um sprint pode durar um dia ou até algumas semanas, por exemplo.
+O ideal é que cada Sprint tenha um tempo fixo (preferencialmente abaixo de um mês). Assim os times podem se organizar melhor e ter um fluxo de trabalho mais eficiente. Ao mesmo tempo, conseguem entregar mais resultados e manter um alinhamento contínuo de expectativas.
+
+### Foco no essencial
+O SCRUM busca priorizar os pontos fundamentais do projeto, isto é, aquelas características que geram mais valor ao cliente. Segundo estudos, no desenvolvimento de um software, 80% do valor da solução se encontra em 20% das funcionalidades.
+Para comprovar a estatística, basta observarmos aplicativos usados diariamente, como Word e Excel. Neles, há inúmeras capacidades complexas que praticamente nunca são usadas. Já as funções básicas, normalmente, são o verdadeiro motivo pelo qual compramos a solução.
+Dessa maneira, a metodologia SCRUM defende que a empresa foque na implementação dos atributos mais importantes do software ou produto. Essas funcionalidades são mantidas em uma lista que é conhecida como product backlog.
+
+
+### Reuniões de alinhamento
+A rotina de reuniões faz parte da filosofia de agilidade e de feedbacks constantes do SCRUM, permitindo que os membros da equipe compartilhem o andamento de suas tarefas. Assim, se houver algo travado, o problema pode ser rapidamente resolvido, evitando o atraso nas entregas e o descumprimento dos prazos combinados.
+Entre as empresas que utilizam a metodologia, é comum fazer sprints curtos e reuniões diárias de, no máximo, 15 minutos, também chamadas de daily SCRUM. Esse é o momento em que, assim como no rugby, os jogadores buscam “encaixar as peças”.
+Nessa reunião, o product owner prioriza os itens do product backlog, e a equipe seleciona as atividades que será capaz de implementar durante o período que se inicia.
+
+### Estrutura enxuta
+Assim como ocorre no SCRUM do rugby, a abordagem do SCRUM empresarial utiliza um número limitado de participantes por projeto. Cada equipe de projeto é formada por cerca de sete pessoas.
+
+###Colaboração
+No SCRUM, é comum que os clientes se tornem parte da equipe de desenvolvimento, desde que estejam verdadeiramente interessados em colaborar e gerar o melhor resultado. Com esse modo de atuar, o retrabalho da equipe diminui consideravelmente, já que os principais interessados no produto estão acompanhando sua criação de perto.
+
+###Transparência
+Em muitas organizações, os colaboradores têm medo de reconhecer um erro ou mesmo de apontar um problema que poderia ter sido encontrado anteriormente. Isso porque muitos modelos de gestão optam por penalizações ou repressões.
+Na metodologia SCRUM, todos os participantes são incentivados a cultivar a transparência, compartilhando seus problemas e dificuldades com a equipe. Dessa maneira, as questões podem ser resolvidas com mais agilidade e menos estresse, evitando que falhas maiores sejam geradas no futuro.
+
+###Adaptabilidade
+Uma das características mais interessantes é a capacidade de adaptação que a metodologia proporciona. Ao iniciar um novo projeto ou identificar uma oportunidade de mercado, a equipe não precisa — e nem deve — se apegar à ideia de obter respostas definitivas.
+No SCRUM, as hipóteses (possíveis soluções para o desenvolvimento de um produto ou para o problema de um cliente) são desenvolvidas e testadas rapidamente com o objetivo de colher feedback. A partir daí, a equipe descobre se vale a pena investir mais tempo e energia naquele projeto, se é preciso recomeçar do zero, ou se é necessário fazer adaptações.
